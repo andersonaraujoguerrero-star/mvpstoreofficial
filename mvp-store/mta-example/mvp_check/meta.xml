@@ -1,0 +1,5 @@
+<meta>
+    <info author="MVP STORE OFFICIAL" name="Ejemplo de licencia" version="1.0.0" type="script" />
+    <script src="license.lua" type="server" cache="false" />
+    <!-- Tu resource real va aqui -->
+</meta>
